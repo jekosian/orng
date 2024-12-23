@@ -1,1 +1,2 @@
-# orng
+<p align="center"><img src="https://64.media.tumblr.com/2ff89b8f78a8c2d23186e26f9330f8c6/209854085407e496-f5/s2048x3072/ea4e9181333f8dfd6cd73a897378363af3e59ac5.pnj">
+<p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nthrfejdrl5ztsoldu5q2cncju&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ea8f3f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" width="300">
